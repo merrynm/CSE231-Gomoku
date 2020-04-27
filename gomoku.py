@@ -1,7 +1,4 @@
 ###############################################################################
-#
-#   Project #11
-#
 #   Gomoku: This is a simple two player game involving the placement of black
 #           or white stones on a (typically) 15x15 board. A streak of 
 #           (typically) 5 pieces from a single player are required to win. 
